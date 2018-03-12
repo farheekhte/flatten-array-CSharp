@@ -1,0 +1,8 @@
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\bin\Debug\FlattenArray.exe.config
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\bin\Debug\FlattenArray.exe
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\bin\Debug\FlattenArray.pdb
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\obj\Debug\FlattenArray.csprojResolveAssemblyReference.cache
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\obj\Debug\FlattenArray.exe
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\obj\Debug\FlattenArray.pdb
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\bin\Debug\Newtonsoft.Json.dll
+I:\Sheikhnezami\Project\Flatten\FlattenArray\FlattenArray\bin\Debug\Newtonsoft.Json.xml
